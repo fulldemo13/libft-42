@@ -5,30 +5,30 @@
 The aim of this project is to code a C library regrouping usual functions.
 
 # Mandatory Part
-- memset
-- bzero
-- memcpy
-- memccpy
-- memmove
-- memchr
-- memcmp
-- strlen
-- strlcpy
-- strlcat
-- strchr
-- strrchr
-- strnstr
-- strncmp
-- atoi
-- isalpha
-- isdigit
-- isalnum
-- isascii
-- isprint
-- toupper
-- tolower
-- calloc
-- strdup
+- ft_memset
+- ft_bzero
+- ft_memcpy
+- ft_memccpy
+- ft_memmove
+- ft_memchr
+- ft_memcmp
+- ft_strlen
+- ft_strlcpy
+- ft_strlcat
+- ft_strchr
+- ft_strrchr
+- ft_strnstr
+- ft_strncmp
+- ft_atoi
+- ft_isalpha
+- ft_isdigit
+- ft_isalnum
+- ft_isascii
+- ft_isprint
+- ft_toupper
+- ft_tolower
+- ft_calloc
+- ft_strdup
 - ft_substr
 - ft_strjoin
 - ft_strtrim
@@ -51,4 +51,8 @@ The aim of this project is to code a C library regrouping usual functions.
 - ft_lstmap_bonus
 - ft_lstnew_bonus
 - ft_lstsize_bonus
-- ft_strndup_bonus
+
+# Added
+- ft_strndup
+- ft_strcpy
+- ft_strcmp

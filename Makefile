@@ -6,7 +6,7 @@
 #    By: fulldemo <fulldemo@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2019/11/09 09:59:06 by fulldemo          #+#    #+#              #
-#    Updated: 2019/11/18 11:58:59 by fulldemo         ###   ########.fr        #
+#    Updated: 2020/09/23 21:12:40 by fulldemo         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -44,7 +44,9 @@ SRC			= ft_atoi.c	\
 			ft_strtrim.c \
 			ft_substr.c \
 			ft_tolower.c \
-			ft_toupper.c
+			ft_toupper.c \
+			ft_strcpy.c \
+			ft_strcmp.c
 SRC_BONUS	= ft_lstadd_back_bonus.c \
 			ft_lstadd_front_bonus.c \
 			ft_lstclear_bonus.c \
